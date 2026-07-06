@@ -16,11 +16,10 @@
 
 ### 📌 About Me
 
-- 🔍 &nbsp;Data Analyst with hands-on project experience in **Power BI**, **Tableau**, **Advanced Excel**, and **SQL**
-- 📊 &nbsp;Skilled at transforming raw datasets into clear, actionable dashboards and reports
-- 🧠 &nbsp;Strong foundation in data cleaning, DAX, data modeling, and business reporting
-- 🎯 &nbsp;Seeking opportunities as a **Data Analyst / Business Analyst**
-- 🤝 &nbsp;Open to connecting — reach out anytime
+-  &nbsp;fintech student with hands-on project experience in **Power BI**, **Tableau**, **Advanced Excel**, and **SQL**
+-  &nbsp;Skilled at transforming raw datasets into clear, actionable dashboards and report
+-  &nbsp;Strong foundation in data cleaning, DAX, data modeling, and business reporting
+-  &nbsp;Strong analytical, problem-solving, and critical thinking abilities
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
