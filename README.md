@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Rathika%20Priyanka%20S%20A&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A3093,100:A044FF&height=180&section=header&text=Rathika%20Priyanka%20S%20A&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -7,9 +7,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rathikapriyanka0206@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-2C5364?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-6A3093?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/📍-Coimbatore,_India-0F2027?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍-Coimbatore,_India-8E44AD?style=for-the-badge" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
@@ -82,10 +82,10 @@ Power BI dashboard analyzing PhonePe transaction trends, categories, and geograp
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rathikapriyanka0206&show_icons=true&theme=graywhite&hide_border=true&title_color=2C5364&icon_color=2C5364&text_color=333333" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rathikapriyanka0206&theme=graywhite&hide_border=true&ring=2C5364&fire=2C5364" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rathikapriyanka0206&show_icons=true&theme=default&hide_border=true&title_color=8E44AD&icon_color=A044FF&text_color=333333&bg_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rathikapriyanka0206&theme=default&hide_border=true&background=ffffff&ring=A044FF&fire=8E44AD&currStreakLabel=8E44AD" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A044FF,100:6A3093&height=100&section=footer" width="100%" />
 </p>
