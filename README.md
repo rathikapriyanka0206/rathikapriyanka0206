@@ -84,7 +84,7 @@ Power BI dashboard analyzing PhonePe transaction trends, categories, and geograp
 ### 💜 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rathikapriyanka0206&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=D291FF&icon_color=FF69B4&text_color=E6D5FF&border_color=8A2BE2" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=rathikapriyanka0206&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=D291FF&icon_color=FF69B4&text_color=E6D5FF&border_color=8A2BE2" width="48%" />
   <img src="https://streak-stats.demolab.com?user=rathikapriyanka0206&hide_border=true&background=0D1117&stroke=8A2BE2&ring=D291FF&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=E6D5FF&sideNums=E6D5FF&dates=B295C7&currStreakNum=FFFFFF" width="48%" />
 </p>
 
@@ -93,7 +93,7 @@ Power BI dashboard analyzing PhonePe transaction trends, categories, and geograp
 ### 🥧 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathikapriyanka0206&layout=donut&hide_border=true&bg_color=0D1117&title_color=D291FF&text_color=E6D5FF&border_color=8A2BE2" width="55%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=rathikapriyanka0206&layout=donut&hide_border=true&bg_color=0D1117&title_color=D291FF&text_color=E6D5FF&border_color=8A2BE2" width="55%" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
