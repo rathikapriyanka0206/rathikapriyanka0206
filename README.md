@@ -1,66 +1,40 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A3093,100:A044FF&height=180&section=header&text=Rathika%20Priyanka%20S%20A&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
+</p>
 
-<!-- Header wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/rathika-priyanka-s-a-b24779324" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rathikapriyanka0206@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-6A3093?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/📍-Coimbatore,_India-8E44AD?style=for-the-badge" />
+</p>
 
-<!-- Animated typing greeting -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D291FF&center=true&vCenter=true&width=600&lines=Hey+everyone%2C+I'm+Rathika+%F0%9F%91%8B;Welcome+to+my+GitHub+Universe+%F0%9F%8C%8C;Aspiring+Financial+%2F+Business+Analyst" />
-</a>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<br>
+### 📌 About Me
+-  &nbsp;fintech student with hands-on project experience in **Power BI**, **Tableau**, **Advanced Excel**, **R**,**Python** ,and **SQL**
+-  &nbsp;Skilled at transforming raw datasets into clear, actionable dashboards and report
+-  &nbsp;Strong foundation in data cleaning, DAX, data modeling, and business reporting
+-  &nbsp;Strong analytical, problem-solving, and critical thinking abilities
 
-<!-- OPTIONAL: replace this line with your own illustrated avatar.
-Free illustrated avatars: https://storyset.com or https://www.freepik.com/free-photos-vectors/avatar
-Upload your image to the repo and swap the src path below -->
-<img src="https://storyset.com/illustration/analytics/pana" width="220" alt="add your own illustrated avatar here" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/COIMBATORE,%20INDIA-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
-</div>
-
-<br>
-
-```
-
-$ whoami
-> Rathika Priyanka S A
-> Final-year B.Com Financial Technology student
-> Based in Coimbatore, Tamil Nadu
-> Currently: preparing for analyst-role placements
-> Tools: Power BI · Tableau · Advanced Excel · SQL · Python · R
-
-```
-
-<br>
-
-## 📌 About Me
-
-- 🎓 Fintech student with hands-on project experience in **Power BI**, **Tableau**, **Advanced Excel**, **SQL**, **Python**, and **R**
-- 📊 Skilled at transforming raw datasets into clear, actionable dashboards and reports
-- 🧮 Strong foundation in data cleaning, DAX, data modeling, and business reporting
-- 🐍 Comfortable working with Python and R for data analysis and statistical exploration
-- 🧠 Strong analytical, problem-solving, and critical thinking abilities
-
-<br>
-
-## 🛠️ Skills
+### 🛠️ Skills
 
 **Tools & Platforms**
-
-![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/ADVANCED%20EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</p>
 
 **Core Competencies**
-
 - Data Cleaning & Preparation
 - Dashboard Design & Data Visualization
 - DAX & Data Modeling (Power BI)
@@ -68,58 +42,76 @@ $ whoami
 - Report Automation (Excel)
 - SQL Querying & Data Extraction
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 📂 Featured Repositories
+### 📂 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=rathikapriyanka0206&repo=E-COMMERCE-ANALYSIS&bg_color=0D1117&title_color=D291FF&icon_color=FF69B4&text_color=E6D5FF&border_color=8A2BE2)](https://github.com/rathikapriyanka0206/E-COMMERCE-ANALYSIS)
-[![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=rathikapriyanka0206&repo=Interactive_Stock_Analysis&bg_color=0D1117&title_color=D291FF&icon_color=FF69B4&text_color=E6D5FF&border_color=8A2BE2)](https://github.com/rathikapriyanka0206/Interactive_Stock_Analysis)
+**[📊 HR Analytics Dashboard](https://github.com/rathikapriyanka0206/HR-Analytics-Dashboard)**
 
-</div>
+Power BI dashboard analyzing employee attrition, demographics, and retention trends from the IBM HR dataset.
 
-<br>
+</td>
+<td width="50%" valign="top">
 
-## 💜 Statistics
+**[📈 Digital Marketing Analytics Dashboard](https://github.com/rathikapriyanka0206/Digital-Marketing-Analytics-Dashboard-)**
 
-<div align="center">
+Interactive Tableau dashboards analyzing campaign performance, engagement, ROI, and conversions.
 
-<img src="https://github-readme-stats.vercel.app/api?username=rathikapriyanka0206&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=D291FF&icon_color=FF69B4&text_color=E6D5FF&border_color=8A2BE2" width="48%" />
-<img src="https://streak-stats.demolab.com?user=rathikapriyanka0206&hide_border=true&background=0D1117&stroke=8A2BE2&ring=D291FF&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=E6D5FF&sideNums=E6D5FF&dates=B295C7&currStreakNum=FFFFFF" width="48%" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+**[💜 PhonePe Business Insights Dashboard](https://github.com/rathikapriyanka0206/PhonePe-Business-Insights-Dashboard)**
 
-<br>
+Power BI dashboard analyzing PhonePe transaction trends, categories, and geographic performance.
 
-## 🥧 Top Languages
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+*More projects coming soon — stay tuned!* ✨
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathikapriyanka0206&layout=donut&hide_border=true&bg_color=0D1117&title_color=D291FF&text_color=E6D5FF&border_color=8A2BE2" width="55%" />
+</td>
+</tr>
+</table>
 
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<br>
+### 💜 Statistics
 
-## 💗 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rathikapriyanka0206&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=D291FF&icon_color=FF69B4&text_color=E6D5FF&border_color=8A2BE2" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=rathikapriyanka0206&hide_border=true&background=0D1117&stroke=8A2BE2&ring=D291FF&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=E6D5FF&sideNums=E6D5FF&dates=B295C7&currStreakNum=FFFFFF" width="48%" />
+</p>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rathikapriyanka0206&hide_border=true&bg_color=0D1117&color=E6D5FF&line=D291FF&point=FF69B4&area=true&area_color=8A2BE2" width="100%" />
+### 🥧 Top Languages
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathikapriyanka0206&layout=donut&hide_border=true&bg_color=0D1117&title_color=D291FF&text_color=E6D5FF&border_color=8A2BE2" width="55%" />
+</p>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🕒 Recent Activity
+### 💗 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rathikapriyanka0206&hide_border=true&bg_color=0D1117&color=E6D5FF&line=D291FF&point=FF69B4&area=true&area_color=8A2BE2" width="100%" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+### 🕒 Recent Activity
 
 <!--START_SECTION:activity-->
-<!-- This section fills itself in automatically once the GitHub Action below is set up -->
+<!-- fills itself in automatically once the GitHub Action is set up -->
 <!--END_SECTION:activity-->
 
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A3093,100:A044FF&height=100&section=footer" width="100%" />
+</p>
