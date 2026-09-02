@@ -101,7 +101,7 @@ Power BI dashboard analyzing PhonePe transaction trends, categories, and geograp
 ### 💗 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rathikapriyanka0206&hide_border=true&bg_color=0D1117&color=E6D5FF&line=D291FF&point=FF69B4&area=true&area_color=8A2BE2" width="100%" />
+  <img src="https://raw.githubusercontent.com/rathikapriyanka0206/rathikapriyanka0206/output/activity-graph.svg" width="100%" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
