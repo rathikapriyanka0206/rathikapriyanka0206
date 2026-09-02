@@ -16,7 +16,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=A044FF&center=true&vCenter=true&width=600&lines=Aspiring+Financial+%2F+Business+Analyst;Power+BI+%7C+Tableau+%7C+Advanced+Excel+%7C+SQL;Turning+Raw+Data+Into+Business+Insights" alt="Typing SVG" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
 
 ### 📌 About Me
 -  &nbsp;fintech student with hands-on project experience in **Power BI**, **Tableau**, **Advanced Excel**, **SQL**, **Python**, and **R**
@@ -25,7 +25,7 @@
 -  &nbsp;Comfortable working with **Python** and **R** for data analysis and statistical exploration
 -  &nbsp;Strong analytical, problem-solving, and critical thinking abilities
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
 
 ### 🛠️ Skills
 
@@ -47,28 +47,28 @@
 - Report Automation (Excel)
 - SQL Querying & Data Extraction
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
 
 ### 📊 Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rathikapriyanka0206&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A044FF&icon_color=A044FF&text_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathikapriyanka0206&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A044FF&text_color=ffffff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rathikapriyanka0206&show_icons=true&theme=radical&hide_border=true&bg_color=0D0B1E&title_color=E0AAFF&icon_color=A044FF&text_color=C9B6E4" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathikapriyanka0206&layout=compact&theme=radical&hide_border=true&bg_color=0D0B1E&title_color=E0AAFF&text_color=C9B6E4" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rathikapriyanka0206&theme=radical&hide_border=true&background=0D1117&ring=A044FF&fire=A044FF&currStreakLabel=A044FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rathikapriyanka0206&theme=radical&hide_border=true&background=0D0B1E&ring=A044FF&fire=E0AAFF&currStreakLabel=E0AAFF&sideLabels=C9B6E4&sideNums=C9B6E4" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rathikapriyanka0206&theme=react-dark&hide_border=true&bg_color=0D1117&color=A044FF&line=A044FF&point=ffffff" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rathikapriyanka0206&theme=react-dark&hide_border=true&bg_color=0D0B1E&color=E0AAFF&line=A044FF&point=E0AAFF&area=true&area_color=302B63" width="100%" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=150&section=footer&animation=twinkling" width="100%" />
