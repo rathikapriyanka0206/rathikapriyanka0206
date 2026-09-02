@@ -18,6 +18,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
 
+```
+$ whoami
+> Rathika Priyanka S A
+> Final-year B.Com Financial Technology student
+> Based in Coimbatore, Tamil Nadu
+> Currently: preparing for analyst-role placements
+> Tools: Power BI · Tableau · Advanced Excel · SQL · Python · R
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
+
 ### 📌 About Me
 -  &nbsp;fintech student with hands-on project experience in **Power BI**, **Tableau**, **Advanced Excel**, **SQL**, **Python**, and **R**
 -  &nbsp;Skilled at transforming raw datasets into clear, actionable dashboards and report
@@ -49,6 +60,41 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
 
+### 📂 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/rathikapriyanka0206/HR-Analytics-Dashboard">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rathikapriyanka0206&repo=HR-Analytics-Dashboard&theme=radical&hide_border=true&bg_color=0D0B1E&title_color=E0AAFF&icon_color=A044FF&text_color=C9B6E4" />
+  </a>
+  <a href="https://github.com/rathikapriyanka0206/Digital-Marketing-Analytics-Dashboard-">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rathikapriyanka0206&repo=Digital-Marketing-Analytics-Dashboard-&theme=radical&hide_border=true&bg_color=0D0B1E&title_color=E0AAFF&icon_color=A044FF&text_color=C9B6E4" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/rathikapriyanka0206/PhonePe-Business-Insights-Dashboard">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rathikapriyanka0206&repo=PhonePe-Business-Insights-Dashboard&theme=radical&hide_border=true&bg_color=0D0B1E&title_color=E0AAFF&icon_color=A044FF&text_color=C9B6E4" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rathikapriyanka0206&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
+
+### 📜 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Office_Specialist-Excel_2019-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPTEL-Digital_Marketing-A044FF?style=for-the-badge&logo=googlescholar&logoColor=white" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
+
 ### 📊 Statistics
 
 <p align="center">
@@ -65,7 +111,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rathikapriyanka0206&theme=react-dark&hide_border=true&bg_color=0D0B1E&color=E0AAFF&line=A044FF&point=E0AAFF&area=true&area_color=302B63" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rathikapriyanka0206&theme=react-dark&hide_border=true&bg_color=0D0B1E&color=E0AAFF&line=A044FF&point=E0AAFF" width="100%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
