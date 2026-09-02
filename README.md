@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=200&section=header&text=Rathika%20Priyanka%20S%20A&fontSize=40&fontColor=E0AAFF&fontAlignY=40&animation=twinkling&desc=Aspiring%20Analyst&descAlignY=58&descSize=18&descColor=A044FF" width="100%" />
 </p>
-
-<h1 align="center">Rathika Priyanka S A</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rathika-priyanka-s-a-b24779324" target="_blank">
@@ -30,10 +28,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### 🛠️ Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau,excel,r,python,mysql&theme=dark" />
-</p>
 
 **Tools & Platforms**
 <p align="left">
@@ -77,5 +71,5 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=150&section=footer&animation=twinkling" width="100%" />
 </p>
