@@ -1,56 +1,52 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=200&section=header&text=Rathika%20Priyanka%20S%20A&fontSize=40&fontColor=E0AAFF&fontAlignY=40&animation=twinkling&desc=Aspiring%20Analyst&descAlignY=58&descSize=18&descColor=A044FF" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rathika-priyanka-s-a-b24779324" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rathikapriyanka0206@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-6A3093?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/📍-Coimbatore,_India-8E44AD?style=for-the-badge" />
-</p>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rathika%20Priyanka%20S%20A&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Financial%20/%20Business%20Analyst&descAlignY=58&descSize=18" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=A044FF&center=true&vCenter=true&width=600&lines=Aspiring+Financial+%2F+Business+Analyst;Power+BI+%7C+Tableau+%7C+Advanced+Excel+%7C+SQL;Turning+Raw+Data+Into+Business+Insights" alt="Typing SVG" />
-</p>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/COIMBATORE,%20INDIA-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
+</div>
+
+<br>
 
 ```
+
 $ whoami
 > Rathika Priyanka S A
 > Final-year B.Com Financial Technology student
 > Based in Coimbatore, Tamil Nadu
 > Currently: preparing for analyst-role placements
 > Tools: Power BI · Tableau · Advanced Excel · SQL · Python · R
+
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
+<br>
 
-### 📌 About Me
--  &nbsp;fintech student with hands-on project experience in **Power BI**, **Tableau**, **Advanced Excel**, **SQL**, **Python**, and **R**
--  &nbsp;Skilled at transforming raw datasets into clear, actionable dashboards and report
--  &nbsp;Strong foundation in data cleaning, DAX, data modeling, and business reporting
--  &nbsp;Comfortable working with **Python** and **R** for data analysis and statistical exploration
--  &nbsp;Strong analytical, problem-solving, and critical thinking abilities
+## 📌 About Me
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
+- 🎓 Fintech student with hands-on project experience in **Power BI**, **Tableau**, **Advanced Excel**, **SQL**, **Python**, and **R**
+- 📊 Skilled at transforming raw datasets into clear, actionable dashboards and reports
+- 🧮 Strong foundation in data cleaning, DAX, data modeling, and business reporting
+- 🐍 Comfortable working with Python and R for data analysis and statistical exploration
+- 🧠 Strong analytical, problem-solving, and critical thinking abilities
 
-### 🛠️ Skills
+<br>
+
+## 🛠️ Skills
 
 **Tools & Platforms**
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-</p>
+
+![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/ADVANCED%20EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 **Core Competencies**
+
 - Data Cleaning & Preparation
 - Dashboard Design & Data Visualization
 - DAX & Data Modeling (Power BI)
@@ -58,64 +54,40 @@ $ whoami
 - Report Automation (Excel)
 - SQL Querying & Data Extraction
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
+<br>
 
-### 📂 Featured Repositories
+## 📂 Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/rathikapriyanka0206/HR-Analytics-Dashboard">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rathikapriyanka0206&repo=HR-Analytics-Dashboard&theme=radical&hide_border=true&bg_color=0D0B1E&title_color=E0AAFF&icon_color=A044FF&text_color=C9B6E4" />
-  </a>
-  <a href="https://github.com/rathikapriyanka0206/Digital-Marketing-Analytics-Dashboard-">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rathikapriyanka0206&repo=Digital-Marketing-Analytics-Dashboard-&theme=radical&hide_border=true&bg_color=0D0B1E&title_color=E0AAFF&icon_color=A044FF&text_color=C9B6E4" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/rathikapriyanka0206/PhonePe-Business-Insights-Dashboard">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rathikapriyanka0206&repo=PhonePe-Business-Insights-Dashboard&theme=radical&hide_border=true&bg_color=0D0B1E&title_color=E0AAFF&icon_color=A044FF&text_color=C9B6E4" />
-  </a>
-</p>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
+[![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=rathikapriyanka0206&repo=E-COMMERCE-ANALYSIS&bg_color=0D1117&title_color=D291FF&icon_color=FF69B4&text_color=E6D5FF&border_color=8A2BE2)](https://github.com/rathikapriyanka0206/E-COMMERCE-ANALYSIS)
+[![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=rathikapriyanka0206&repo=Interactive_Stock_Analysis&bg_color=0D1117&title_color=D291FF&icon_color=FF69B4&text_color=E6D5FF&border_color=8A2BE2)](https://github.com/rathikapriyanka0206/Interactive_Stock_Analysis)
 
-### 🏆 GitHub Trophies
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rathikapriyanka0206&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
-</p>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
+## 💜 Statistics
 
-### 📜 Certifications
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Office_Specialist-Excel_2019-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Digital_Marketing-A044FF?style=for-the-badge&logo=googlescholar&logoColor=white" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=rathikapriyanka0206&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=D291FF&icon_color=FF69B4&text_color=E6D5FF&border_color=8A2BE2" width="48%" />
+<img src="https://streak-stats.demolab.com?user=rathikapriyanka0206&hide_border=true&background=0D1117&stroke=8A2BE2&ring=D291FF&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=E6D5FF&sideNums=E6D5FF&dates=B295C7&currStreakNum=FFFFFF&sideLabels=E6D5FF" width="48%" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
+</div>
 
-### 📊 Statistics
+<br>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rathikapriyanka0206&show_icons=true&theme=radical&hide_border=true&bg_color=0D0B1E&title_color=E0AAFF&icon_color=A044FF&text_color=C9B6E4" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathikapriyanka0206&layout=compact&theme=radical&hide_border=true&bg_color=0D0B1E&title_color=E0AAFF&text_color=C9B6E4" />
-</p>
+## 💗 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rathikapriyanka0206&theme=radical&hide_border=true&background=0D0B1E&ring=A044FF&fire=E0AAFF&currStreakLabel=E0AAFF&sideLabels=C9B6E4&sideNums=C9B6E4" />
-</p>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rathikapriyanka0206&hide_border=true&bg_color=0D1117&color=E6D5FF&line=D291FF&point=FF69B4&area=true&area_color=8A2BE2" width="100%" />
 
-### 📈 Contribution Graph
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rathikapriyanka0206&theme=react-dark&hide_border=true&bg_color=0D0B1E&color=E0AAFF&line=A044FF&point=E0AAFF" width="100%" />
-</p>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:6A3093&height=3" width="100%" />
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=150&section=footer&animation=twinkling" width="100%" />
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
