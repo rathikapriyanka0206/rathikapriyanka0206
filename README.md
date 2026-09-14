@@ -106,8 +106,6 @@ Power BI dashboard analyzing PhonePe transaction trends, categories, and geograp
   <img alt="snake animation" src="https://raw.githubusercontent.com/rathikapriyanka0206/rathikapriyanka0206/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-
 ### 🕐 Recent Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rathikapriyanka0206&theme=redical&hide_border=true&area=true" width="100%" />
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
