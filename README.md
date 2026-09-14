@@ -99,24 +99,15 @@ Power BI dashboard analyzing PhonePe transaction trends, categories, and geograp
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-### 💗 Contribution Graph
+### 💖 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rathikapriyanka0206/rathikapriyanka0206/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rathikapriyanka0206/rathikapriyanka0206/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/rathikapriyanka0206/rathikapriyanka0206/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rathikapriyanka0206/rathikapriyanka0206/output/activity-graph.svg" width="100%" />
-</p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rathikapriyanka0206&theme=react-dark" width="100%" />
-
-### 🕒 Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- fills itself in automatically once the GitHub Action is set up -->
-<!--END_SECTION:activity-->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A3093,100:A044FF&height=100&section=footer" width="100%" />
-</p>
 ### 🕐 Recent Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rathikapriyanka0206&theme=redical&hide_border=true&area=true" width="100%" />
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
